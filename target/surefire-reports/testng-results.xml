@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="12226" started-at="2018-02-04T10:36:17Z" finished-at="2018-02-04T10:36:30Z">
+  <suite name="Suite" duration-ms="5055" started-at="2018-02-04T10:43:53Z" finished-at="2018-02-04T10:43:58Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="12226" started-at="2018-02-04T10:36:17Z" finished-at="2018-02-04T10:36:30Z">
+    <test name="Test" duration-ms="5055" started-at="2018-02-04T10:43:53Z" finished-at="2018-02-04T10:43:58Z">
       <class name="qsp.DemoA">
-        <test-method status="PASS" signature="testA()[pri:0, instance:qsp.DemoA@3d24753a]" name="testA" duration-ms="12188" started-at="2018-02-04T16:06:17Z" finished-at="2018-02-04T16:06:30Z">
+        <test-method status="PASS" signature="testA()[pri:0, instance:qsp.DemoA@59a6e353]" name="testA" duration-ms="5025" started-at="2018-02-04T16:13:53Z" finished-at="2018-02-04T16:13:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testA -->
